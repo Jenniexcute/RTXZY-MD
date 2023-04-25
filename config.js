@@ -25,7 +25,6 @@ global.instagram = 'https://instagram.com/prm2.0'
 global.lolkey = 'rey2k22'
 global.zenzkey = 'BagasPrdn'
 global.btc = 'Admin'
-global.apikeyaAi = 'ISI_API_OPENAI_DI_SINI' //fill apikey openai here (register https://beta.openai.com/)
 global.wm = '© R-TXZY-MD'
 global.watermark = wm
 global.wm2 = '⫹⫺ R-TXZY-MD'
