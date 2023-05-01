@@ -17,7 +17,7 @@ if (!args[0])
     var { video, video2, username, description, audio } = convert.result;
     conn.sendFile(
       m.chat,
-      video,
+      video2,
       'tiktok.mp4',
       `*Deskripsi*: ${description}\n*Username*: ${username}`,
       m
